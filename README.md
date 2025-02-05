@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/PfhX86m/Cover.png" width="100%" alt="Cover Image" />
+  <img height="300" src="https://i.ibb.co.com/PfhX86m/Cover.png"  />
 </div>
 
 ---
