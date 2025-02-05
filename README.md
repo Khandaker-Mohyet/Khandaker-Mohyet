@@ -51,11 +51,6 @@ Hello, this is **Khandaker Mohyet**. I am a **Frontend Developer** skilled in **
 
 ---
 
-## 🌍 Languages I Speak  
-
-<p align="center">🇧🇩 Bengali || 🇬🇧 English</p>
-
----
 
 ## 📊 My GitHub Stats  
 
