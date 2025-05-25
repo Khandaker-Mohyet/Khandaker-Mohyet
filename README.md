@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/PfhX86m/Cover.png"  />
+  <img height="300" src="https://i.postimg.cc/9FBgTLjT/Linkind-Banner.png"  />
 </div>
 
 ---
