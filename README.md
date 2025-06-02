@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/9FBgTLjT/Linkind-Banner.png"  />
+  <img src="https://i.postimg.cc/Ssp5G4dg/Linkind-MERN.png"  />
 </div>
 
 ---
