@@ -6,7 +6,7 @@
 
 ## 👋 About Me  
 
-# 👋 Hi, I'm Khandaker Mohyet
+Hi, I'm Khandaker Mohyet
 
 I'm a passionate **MERN stack developer** with a strong focus on building **fast**, **responsive**, and **user-friendly** web applications.
 
