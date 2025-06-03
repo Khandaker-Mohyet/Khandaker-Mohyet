@@ -6,7 +6,16 @@
 
 ## 👋 About Me  
 
-Hello, this is **Khandaker Mohyet**. I am a **Frontend Developer** skilled in **JavaScript, React.js, Node.js, Express.js, MongoDB**. I love building user-friendly applications & solving real-world problems! 🚀 Always learning & exploring new technologies.  
+# 👋 Hi, I'm Khandaker Mohyet
+
+I'm a passionate **MERN stack developer** with a strong focus on building **fast**, **responsive**, and **user-friendly** web applications.
+
+I specialize in **React**, **Tailwind CSS**, **Express.js**, and **MongoDB**, and I’m committed to making web development smoother and more accessible for developers.
+
+While my core strength lies in **frontend development**, I’m actively expanding my skills in **backend technologies** to deliver more complete and seamless **full-stack solutions**.
+
+I’m a **lifelong learner** and **innovator**, always eager to grow and contribute to the developer community by creating tools and experiences that provide real value.
+ 
 
 ---
 
